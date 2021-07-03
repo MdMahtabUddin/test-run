@@ -15,13 +15,13 @@ M.Slider.init(slider, {
 const ac = document.querySelector('.autocomplete');
 M.Autocomplete.init(ac, {
     data: {
-        "Aruba": null,
-        "Cancun": null,
-        "Hawaii": null,
-        "Florida": null,
-        "California": null,
-        "Jamaica": null,
-        "Europe": null
+        "Dhaka": null,
+        "CTG": null,
+        "Sylhet": null,
+        "": null,
+        "": null,
+        "": null,
+        "": null
     }
 })
 
